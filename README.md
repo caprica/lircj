@@ -30,7 +30,7 @@ $sudo apt-get install libc6-dev-i386
 
 You can install JUDS into your local Maven repository:
 
-$mvn install:install-file -Dfile=juds-0.94.jar -DgroupId=com.google.code -DartifactId=juds -Dversion=0.94 -Dpackaging=jar
+$mvn install:install-file -Dfile=juds-0.94.jar -DgroupId=com.etsy.net -DartifactId=juds -Dversion=0.94 -Dpackaging=jar
 
 Distribution Contents
 ---------------------
