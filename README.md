@@ -37,9 +37,9 @@ Distribution Contents
 
 The main artefacts are:
 
- * lircj-<version>.jar           - jar file for compiling and running against
- * lircj-<version>-sources.jar   - all source code
- * lircj-<version>-javadoc.jar   - generated javadoc API documentation
+ * lircj-[version].jar           - jar file for compiling and running against
+ * lircj-[version]-sources.jar   - all source code
+ * lircj-[version]-javadoc.jar   - generated javadoc API documentation
 
 Usage
 -----
